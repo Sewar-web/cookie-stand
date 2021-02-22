@@ -8,3 +8,6 @@ a
     font-size:xx-large;
     color: rgb(60, 10, 179);
 }
+table, th, td {
+    border: 1px solid black;
+}
