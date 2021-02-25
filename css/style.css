@@ -1,0 +1,135 @@
+body
+{
+    background-image: url("https://ae01.alicdn.com/kf/H2ea15778b92f4964b60d0115bafc6bed2.jpg_q50.jpg");
+    /* background-color:burlywood; */
+    
+}
+body h1 i
+{
+
+    text-align: center;
+    color: rgb(185, 19, 158);
+    font-style: italic;
+    background-color: gold;
+    padding: auto;
+    border-radius: auto;
+
+}
+.aa
+{
+    background-color: gold;
+    padding: auto;
+    border-radius: auto;
+}
+/* div
+{
+    width: 280px;
+    height: 190px;
+    display: flex;
+    padding: 5px; 
+
+} */
+
+a
+{
+    text-align: right;
+    font-size:xx-large;
+    color: rgb(60, 10, 179);
+
+}
+.Seattle li a:hover
+{
+    background-color: yellow;
+}
+.Seattle
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    color: rgb(255, 0, 157);
+    background-color: rgb(46, 132, 161);
+    border-radius: 150px;
+    padding: 0 90px;
+    
+}
+.Seattle p{
+    background-color: lightblue;
+    border-radius: 110px;
+    padding: 0 30px;
+}
+.Tokyo
+{
+    font-family: cursive;
+    font-size: x-large;
+    color:green;
+    background-color: rgb(93, 165, 93);
+    border-radius: 150px;
+    padding: 0 90px;
+}
+.Tokyo p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightblue;
+    border-radius: 110px;
+    padding: 0 30px;
+}
+.Tokyo li a:hover
+{
+    background-color: tomato;
+}
+.Dubai
+{
+    font-size: x-large;
+    color:rgb(8, 197, 87);
+    
+    background-color:yellow;
+    border-radius: 150px;
+    padding: 0 90px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Dubai li a:hover
+{
+    background-color: rgb(147, 168, 173);
+}
+.Dubai p{
+    background-color: lightblue;
+    border-radius: 110px;
+    padding: 0 30px;
+    font-family: initial;
+}
+.Paris
+{
+    font-size: x-large;
+    color:rgb(15, 88, 170);
+    
+    background-color: rgb(46, 132, 161);
+    border-radius: 150px;
+    padding: 0 90px;
+}
+.Paris li a:hover
+{
+    background-color: purple;
+}
+.Paris p{
+    background-color: lightblue;
+    border-radius: 110px;
+    padding: 0 30px;
+}
+
+.Lima
+{
+    font-size: x-large;
+    color:rgb(226, 25, 193);
+    background-color: rgb(32, 23, 11);
+    border-radius: 150px;
+    padding: 0 90px;
+    font-family: serif;
+}
+ .Lima p{
+    background-color: lightblue;
+    border-radius: 110px;
+    padding: 0 10px;
+  
+}
+.Lima li a:hover
+{
+    background-color: rgb(8, 197, 87);
+}
