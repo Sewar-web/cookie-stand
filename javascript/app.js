@@ -124,7 +124,6 @@ const Dubai = {
 Dubai.gitNum();
 Dubai.gitCookiesEachHour();
 
-///////////////////////////////////////
 const Paris = {
   name:'Paris',
   MIN: 2,
